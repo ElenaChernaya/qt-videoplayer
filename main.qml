@@ -105,6 +105,8 @@ Window {
 
     }
 
+
+    // Кнопка 'stop'
     Button {
         id: iconStop
         text: qsTr("▪")
@@ -123,6 +125,7 @@ Window {
         }
 
     }
+
 
     Text {
         id: iconRight
@@ -145,15 +148,4 @@ Window {
         anchors.verticalCenterOffset: 80
         font.pointSize: 30
     }
-
-
-
-
 }
-
-
-
-
-
-
-
