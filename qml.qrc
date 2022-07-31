@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../Users/Elena/Desktop/img/manson.png</file>
+        <file>../../Users/Elena/Desktop/img/manson2.png</file>
+    </qresource>
+</RCC>
